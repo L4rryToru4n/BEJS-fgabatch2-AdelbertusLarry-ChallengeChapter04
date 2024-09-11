@@ -62,9 +62,13 @@ After downloading or cloning the repository, head to the main directory using a 
 ```
 npx prisma migrate dev --name init
 ```
-Next, to start the project's server run
+Next, install all the Node packages by running
+```
+npm install
+```
+Last, in order to start the project's server run
 ```
 npm run start
 ```
 All endpoints then can be accessed starting from
-`localhost:5000/api/v1/{name_of_the_main_endpoint}`.
+`localhost:5000/api/v1/{name_of_the_main_endpoint}`
