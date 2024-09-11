@@ -66,7 +66,7 @@ Next, install all the Node packages by running
 ```
 npm install
 ```
-Last, in order to start the project's server run
+Lastly, in order to start the project's server run
 ```
 npm run start
 ```
