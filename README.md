@@ -53,7 +53,7 @@ Every data created through the APIs then stored to each appropriate tables using
 ## Setup
 In order to do demo, clone the project by typing this command into the terminal: 
 ```
-git clone https://github.com/L4rryToru4n/bankaccount-binar-academy-be-chapter-04.git
+git clone https://github.com/L4rryToru4n/BEJS-fgabatch2-AdelbertusLarry-ChallengeChapter04.git
 ```
 or download the project then extract the .zip file.
 
